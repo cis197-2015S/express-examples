@@ -3,6 +3,7 @@
 ### Running the Server
 
 ```bash
+$ npm install
 $ node app.js
 ```
 
