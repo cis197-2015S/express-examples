@@ -9,6 +9,4 @@ $ node app.js
 
 ### Check it out
 
-Navigate to http://localhost:3000. You should see "hello world" in your browser. Yes, it's that easy!
-
-Don't forget to check out the other branches for examples of middleware, routers, etc!
+Navigate to http://localhost:3000/users/1234. You should see "The value of :id is 1234" in your browser.
