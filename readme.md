@@ -9,6 +9,6 @@ $ node app.js
 
 ### Check it out
 
-Navigate to http://localhost:3000. You should see "hello world" in your browser. Yes, it's that easy!
+Navigate to http://localhost:3000. You should see "hello world" in your browser.
 
 Don't forget to check out the other branches for examples of middleware, routers, etc!
